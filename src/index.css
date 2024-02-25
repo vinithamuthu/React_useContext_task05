@@ -1,0 +1,28 @@
+.text-center{
+  background-color: cadetblue;
+  padding: 30px;
+  width: 1300px;
+  
+}
+.btn{
+  display: flex;
+  display: inline;
+  padding: 30px;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 50px;
+}
+
+#ps{
+  background-color: cornflowerblue;
+}
+#ms{
+  background-color: cornflowerblue;
+}
+
+#rm{
+background-color: bisque;
+}
+.card-body{
+  background-color: darkgray;
+}
