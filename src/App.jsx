@@ -20,7 +20,7 @@ const App = () => {
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "thumbnail": "https://vasanthandco.in/images/productimages/thumb_1194__product__Mobiles__vivo-y01-sapphire-blue-32gb-2gb-ram.png",
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
                 "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -39,7 +39,7 @@ const App = () => {
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2021/12/SR/BW/WT/25006117/oppo-mobiles-phones.jpeg",
             "images": [
                 "https://i.dummyjson.com/data/products/2/1.jpg",
                 "https://i.dummyjson.com/data/products/2/2.jpg",
@@ -57,7 +57,7 @@ const App = () => {
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "thumbnail": "https://m.media-amazon.com/images/I/41Hb2KwX6vL._AC_SR300,300.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/3/1.jpg"
             ]
@@ -72,7 +72,7 @@ const App = () => {
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "thumbnail": "https://opsg-img-cdn-gl.heytapimg.com/epb/202401/03/ej1HHjiNFJgr5duE.png",
             "images": [
                 "https://i.dummyjson.com/data/products/4/1.jpg",
                 "https://i.dummyjson.com/data/products/4/2.jpg",
@@ -91,7 +91,7 @@ const App = () => {
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "thumbnail": "https://www.suryaelectronics.in/CommonImageHandler/ImageHandler.ashx?imagepath=~/img/Product/Main/oppoMobilePhonesandAccessoriesMobilePhones126.jpg&width=1080",
             "images": [
                 "https://i.dummyjson.com/data/products/5/1.jpg",
                 "https://i.dummyjson.com/data/products/5/2.jpg",
