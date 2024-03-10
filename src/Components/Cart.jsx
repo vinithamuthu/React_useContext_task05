@@ -35,8 +35,10 @@ const Cart = () => {
     });
   };
 
-  const removeItem = (id) => {
-    setData(data.filter((data) => data.id !== id));
+  const removeItem = (id,quantity) => {
+
+    
+    setData(data.filter((data) => data.id !== id )  );
   };
 
   return (
@@ -145,7 +147,7 @@ const Cart = () => {
                   <button type="button"
                     className="btn btn-danger"
                     id="rm"
-                    onClick={() => removeItem(item.id, item.quantity)}
+                    onClick={() => removeItem(item.id, item.quantity  )}
                   >
                     Remove Item
                   </button>
