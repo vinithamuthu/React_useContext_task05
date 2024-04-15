@@ -1,4 +1,4 @@
-.text-center {
+ .text-center {
   background-color: cadetblue;
   padding: 30px;
   width: 1300px;
@@ -10,5 +10,96 @@
 }
 #ms {
   background-color: cornflowerblue;
+} 
+
+
+
+
+.text-center {
+  text-align: center;
 }
 
+.container {
+  padding: 1rem; /* Add some padding for better content spacing */
+}
+
+.navbar.navbar-expand-lg {
+  /* Adjust navbar styles for a cleaner look (optional) */
+  background-color: #f0f0f0;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar h5 {
+  /* Style total information within the navbar */
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+.row {
+  /* Maintain responsive grid layout */
+}
+
+.card {
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  width: 100%; /* Ensure image fills the card width */
+  object-fit: cover; /* Maintains aspect ratio and scales to fit */
+}
+
+.card-body {
+  padding: 1rem; /* Adjust padding for better content organization */
+}
+
+.ctn { /* Style product details section within card body */
+  display: flex; /* Arrange title and description side-by-side */
+  flex-direction: column; /* Stack elements vertically */
+  margin-bottom: 1rem; /* Add some space between details and list group */
+}
+
+.card-title {
+  margin-bottom: 0.5rem; /* Adjust spacing between title and description */
+}
+
+.card-id {
+  font-size: 0.8rem; /* Reduce font size for product ID (optional) */
+  color: #aaa; /* Lighter color for less prominence (optional) */
+}
+
+.list-group {
+  /* Adjust list-group styling for better readability (optional) */
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.list-group-item {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.btn-group { /* Group quantity buttons for better organization */
+  display: flex;
+  justify-content: space-between; /* Align buttons horizontally */
+}
+
+.btn {
+  margin: 0 0.5rem; /* Adjust margin between buttons */
+}
+
+/* Media Queries for Additional Responsiveness (Optional) */
+
+@media (max-width: 768px) {
+  .card {
+    /* Adjust card layout for smaller screens (e.g., increase width) */
+  }
+  
+  .ctn {
+    /* Adjust product details layout for smaller screens (e.g., font size) */
+  }
+}
